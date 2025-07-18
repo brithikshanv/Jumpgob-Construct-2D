@@ -37,14 +37,14 @@ All logic is built using **event sheets** in Construct 2. Highlights include:
 - **Background layers and platform placement** for a lively scene
 
 
-## 🖼️ Screenshots
+##  Screenshots
 
-### 🎮 Gameplay View:
+###  Gameplay View:
 *(Goblin collecting coins with score display and background)*  
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/81987bd1-abef-40dc-a51a-a57cd05c7eb7" />
 
 
-### 🛠️ Event Sheet Logic:
+###  Event Sheet Logic:
 *(Animations, collisions, score update logic)*  
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/3b5413c9-8981-490e-980d-72c08b3cdefb" />
 
